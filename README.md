@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-I'm Davy (he/him), a software engineer|hacker|maker.
+I'm Davy (he/him), a software engineer | hacker | maker.
 
 - ☀️ Lead engineer @allthings by day
 - 🌕 Rustacean 🦀 by night
