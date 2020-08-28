@@ -2,7 +2,7 @@
 
 I'm Davy (he/him), a software engineer|hacker|maker.
 
-- ☀️ Lead engineer @allthings_here by day
+- ☀️ Lead engineer @allthings by day
 - 🌕 Rustacean 🦀 by night
 
 I ❤️ to learn on a daily basis, to face new challenges and to contribute to open-source. Github is a playground for my experiments.
