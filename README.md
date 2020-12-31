@@ -1,9 +1,8 @@
 ### Hello folks 👋
 
-I'm Davy (he/him), a software engineer | hacker | maker.
+I'm Davy (he/him), a senior software engineer | hacker | maker.
 
-- ☀️ Lead engineer @allthings by day
-- 🌕 Rustacean 🦀 by night
+These days I'm mostly doing #Rustlang 🦀 and #TypeScript 🛠️.
 
 I ❤️ to learn on a daily basis, to face new challenges and to contribute to open-source. Github is a playground for my experiments.
 
