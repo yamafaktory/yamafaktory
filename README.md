@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-I'm Davy (he/him), a senior software engineer | hacker | maker.
+I'm Davy (he/him), a senior software engineer | hacker | maker | thinker.
 
 These days I'm mostly doing #Rustlang 🦀 and #TypeScript 🛠️.
 
