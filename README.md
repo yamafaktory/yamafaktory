@@ -2,7 +2,7 @@
 
 I'm Davy (he/him), a senior software engineer | hacker | maker | thinker.
 
-These days I'm mostly doing #Rustlang 🦀 and #TypeScript 🛠️.
+These days I'm mostly doing #Zig 🦎 #Rustlang 🦀 and #TypeScript 🛠️.
 
 I ❤️ to learn on a daily basis, to face new challenges and to contribute to open-source. Github is a playground for my experiments.
 
